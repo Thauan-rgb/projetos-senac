@@ -12,3 +12,8 @@ aprendemos a usar o Github e a incrementar nossa conta no Linkedin, a importânc
 <h3>Dia 11/02/2025</h3>
 
 <p>Aula curta, aprendemos mecanismos novos no Github e como conectar esta plataforma ao Vs Code.</p>
+
+
+<h3>Dia 17/02/2025</h3>
+
+<p> Neste dia a professora nos apresentou ao Miro e suas funcionalidades e nos passou uma atividade para criarmos onde construimos uma timeline a respeito de um ramo da tecnologia, no qual eu escolhi Cloud Computing, que você pode encontrar aqui: https://miro.com/app/board/uXjVIdw66dM=/</p>
