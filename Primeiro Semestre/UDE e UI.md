@@ -9,3 +9,9 @@
   Além disso, a professora nos mostrou seu plano de ensino para o semestre e os exercícios que iremos realizar.<br>
   Iremos utilizar o Figma e o Miro para a criação de nosso próprio Portfolio bem como para as atividades em grupo.
 </p>
+
+<h3> Dia 18/02/2025</h3>
+
+<p> 
+  A professora Samantha nos explicou sobre sustentabilidade e nos apresentou ao Figma, onde nos passou uma atividade em grupo para realizarmos a respeito da Matriz CSD. 
+</p>
